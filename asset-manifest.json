@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/sample_app/static/css/main.35075e90.css",
+    "main.js": "/sample_app/static/js/main.c18c061c.js",
+    "static/media/pexels-hamit-ferhat-hazar-14882267.jpg": "/sample_app/static/media/pexels-hamit-ferhat-hazar-14882267.c1146a868ff38c41ed83.jpg",
+    "static/media/pexels-yan-krukau-8197534.jpg": "/sample_app/static/media/pexels-yan-krukau-8197534.dea1d0cff97edff580f6.jpg",
+    "static/media/pexels-pixabay-38271.jpg": "/sample_app/static/media/pexels-pixabay-38271.c2b6816ffe7632c0cf98.jpg",
+    "static/media/count.jpeg": "/sample_app/static/media/count.69b3b5038b55a8ffbc77.jpeg",
+    "static/media/slider.jpg": "/sample_app/static/media/slider.a71c863aa2cdf72bfd7c.jpg",
+    "static/media/our-teachers_03.jpg": "/sample_app/static/media/our-teachers_03.b4115aa47baae21fd28d.jpg",
+    "static/media/logoone.png": "/sample_app/static/media/logoone.e3793a3fb60335693900.png",
+    "static/media/our-teachers_01.jpg": "/sample_app/static/media/our-teachers_01.3e2ed256302e446ed5a8.jpg",
+    "static/media/our-teachers_02.jpg": "/sample_app/static/media/our-teachers_02.35630cb21027b416f2ad.jpg",
+    "static/media/login.jpeg": "/sample_app/static/media/login.428533c4e78eb1ebcec2.jpeg",
+    "static/media/our-teachers_04.jpg": "/sample_app/static/media/our-teachers_04.25804bce469f588f0e5f.jpg",
+    "static/media/research-features_img.jpg": "/sample_app/static/media/research-features_img.30732670d7c770722ab0.jpg",
+    "static/media/events.jpeg": "/sample_app/static/media/events.c448ce13debb4e4902d8.jpeg",
+    "static/media/pexels-photo-8199761.jpeg": "/sample_app/static/media/pexels-photo-8199761.6c491b9ce57df2053424.jpeg",
+    "static/media/welcome-img.jpg": "/sample_app/static/media/welcome-img.287090649ee64ecd2447.jpg",
+    "static/media/pexels-photo-3059750.jpeg": "/sample_app/static/media/pexels-photo-3059750.a154a25d447b526dbe5e.jpeg",
+    "static/media/pexels-photo-6238068.webp": "/sample_app/static/media/pexels-photo-6238068.e9d8c0b2ca7957132c17.webp",
+    "index.html": "/sample_app/index.html",
+    "main.35075e90.css.map": "/sample_app/static/css/main.35075e90.css.map",
+    "main.c18c061c.js.map": "/sample_app/static/js/main.c18c061c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.35075e90.css",
+    "static/js/main.c18c061c.js"
+  ]
+}
